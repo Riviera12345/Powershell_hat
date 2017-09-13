@@ -7,7 +7,3 @@
 
 # What is Powershell
 PowerShell offers a multitude of offensive advantages, including full .NET access, application whitelisting, direct access to the Win32 API, the ability to assemble malicious binaries in memory, and a default installation 
-
-
-
-![new-front-promo another copy](https://user-images.githubusercontent.com/25440152/30399493-e1e16090-98a1-11e7-9437-0821c90f67ae.jpg)
