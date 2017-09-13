@@ -12,5 +12,3 @@ PowerShell offers a multitude of offensive advantages, including full .NET acces
 
 
 
-
-![title521505994](https://user-images.githubusercontent.com/25440152/30405231-a814188c-98b8-11e7-9752-86fe9b70091c.png)
