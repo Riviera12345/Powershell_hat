@@ -9,6 +9,6 @@
 PowerShell offers a multitude of offensive advantages, including full .NET access, application whitelisting, direct access to the Win32 API, the ability to assemble malicious binaries in memory, and a default installation 
 
 #
-- [Android](https://github.com/JStumpp/awesome-android)
+# - [Powershell](https://github.c  )
 
 
