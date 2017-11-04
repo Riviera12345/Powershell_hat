@@ -3,12 +3,8 @@
 
 ## What is Powershell_hat 
 # Come on is a collection of suggestions and articles founder of this Hua Matt homjxi0e !
------------
-
-# What is Powershell
-PowerShell offers a multitude of offensive advantages, including full .NET access, application whitelisting, direct access to the Win32 API, the ability to assemble malicious binaries in memory, and a default installation 
-
+----------
 #
-- [Powershell](https://github.c  )
+- [Powershell](://github.c  )
 
 
